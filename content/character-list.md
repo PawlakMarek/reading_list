@@ -13,4 +13,5 @@ List of character read so far.
 
 <!-- more -->
 
-* Thor
+* [Thor](../characters/thor)
+* [Wolverine](../characters/wolverine)
